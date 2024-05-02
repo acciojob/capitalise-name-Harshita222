@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let inp = document.querySelector("input")
+let inp = document.querySelector("#fname")
 inp.addEventListener("blur", converted)
 function converted(){
 	let res = inp.value
